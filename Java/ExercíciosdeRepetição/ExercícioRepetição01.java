@@ -1,5 +1,5 @@
 package br.com.generation.ExercíciosdeRepetição;
-
+//Feito com ajuda
 public class ExercícioRepetição01 {
 
 	public static void main(String[] args) {

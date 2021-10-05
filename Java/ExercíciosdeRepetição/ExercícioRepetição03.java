@@ -1,7 +1,7 @@
 package br.com.generation.ExercíciosdeRepetição;
 
 import java.util.Scanner;
-
+// Feito em aula
 public class ExercícioRepetição03 {
 
 	public static void main(String[] args) {
@@ -13,7 +13,7 @@ public class ExercícioRepetição03 {
 		System.out.println("Digite a sua idade:");
 		idade = leia.nextInt();
 		
-		while(idade != -99) 
+		while(idade != -99 && idade != 0) 
 		{
 			if(idade <= 21) 
 			{
